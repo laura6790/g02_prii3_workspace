@@ -1,0 +1,23 @@
+running egg_info
+writing ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/PKG-INFO
+writing dependency_links to ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/dependency_links.txt
+writing entry points to ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/entry_points.txt
+writing requirements to ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/requires.txt
+writing top-level names to ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/top_level.txt
+reading manifest file '../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/SOURCES.txt'
+writing manifest file '../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying g02_prii3_turtlesim/turtle_controller.py -> /home/laura/Descargas/g02_prii3_workspace-master(1)/build/g02_prii3_turtlesim/build/lib/g02_prii3_turtlesim
+running install
+running install_lib
+copying /home/laura/Descargas/g02_prii3_workspace-master(1)/build/g02_prii3_turtlesim/build/lib/g02_prii3_turtlesim/turtle_controller.py -> /home/laura/Descargas/g02_prii3_workspace-master(1)/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim
+byte-compiling /home/laura/Descargas/g02_prii3_workspace-master(1)/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim/turtle_controller.py to turtle_controller.cpython-38.pyc
+running install_data
+Sorry: IndentationError: expected an indented block (turtle_controller.py, line 39)
+running install_egg_info
+removing '/home/laura/Descargas/g02_prii3_workspace-master(1)/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info to /home/laura/Descargas/g02_prii3_workspace-master(1)/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim-0.0.0-py3.8.egg-info
+running install_scripts
+Installing turtle_controller script to /home/laura/Descargas/g02_prii3_workspace-master(1)/install/g02_prii3_turtlesim/lib/g02_prii3_turtlesim
+writing list of installed files to '/home/laura/Descargas/g02_prii3_workspace-master(1)/build/g02_prii3_turtlesim/install.log'

@@ -1,0 +1,17 @@
+# Archivos de build ROS2
+build/
+install/
+log/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs de ROS
+*.log
