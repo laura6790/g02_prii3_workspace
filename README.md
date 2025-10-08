@@ -3,12 +3,6 @@
 - Workspace: g02_prii3.ws
 - Paquete: g02_prii3_turtlesim
 - Compilación: `colcon build --packages-select g02_prii3_turtlesim`
-
-### PBI 1.3  - Controlador turtlesim
-- Dibujo automático del número 2
-- Servicios: stop_drawing, resume_drawing, reset_drawing
-- Archivo launch único
-
 ### Uso:
 ```bash
 # Clonar y compilar
