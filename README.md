@@ -21,7 +21,7 @@ source install/setup.bash
 ros2 launch g02_prii3_turtlesim turtle_draw.launch.py
 
 # Servicios
-ros2 service call /stop_drawing std_srvs/srv/Empty
-ros2 service call /reset_drawing std_srvs/srv/Empty
-ros2 service call /resume_drawing std_srvs/srv/Empty
+Parar el dibujo: ros2 service call /stop_drawing std_srvs/srv/Empty
+Resetear el dibujo: ros2 service call /reset_drawing std_srvs/srv/Empty
+Reanudar el dibujo: ros2 service call /resume_drawing std_srvs/srv/Empty
 
