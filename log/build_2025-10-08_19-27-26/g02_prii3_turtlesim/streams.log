@@ -1,0 +1,21 @@
+[0.420s] Invoking command in '/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/src/g02_prii3_turtlesim': PYTHONPATH=/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/install/g02_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g02_prii3_turtlesim build --build-base /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/build install --record /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/install.log --install-scripts $base/lib/g02_prii3_turtlesim --single-version-externally-managed install_data
+[0.577s] running egg_info
+[0.578s] writing ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/PKG-INFO
+[0.578s] writing dependency_links to ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/dependency_links.txt
+[0.583s] writing entry points to ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/entry_points.txt
+[0.586s] writing requirements to ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/requires.txt
+[0.586s] writing top-level names to ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/top_level.txt
+[0.613s] reading manifest file '../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/SOURCES.txt'
+[0.614s] writing manifest file '../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info/SOURCES.txt'
+[0.614s] running build
+[0.614s] running build_py
+[0.615s] running install
+[0.615s] running install_lib
+[0.616s] running install_data
+[0.616s] running install_egg_info
+[0.618s] removing '/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim-0.0.0-py3.8.egg-info' (and everything under it)
+[0.618s] Copying ../../build/g02_prii3_turtlesim/g02_prii3_turtlesim.egg-info to /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/install/g02_prii3_turtlesim/lib/python3.8/site-packages/g02_prii3_turtlesim-0.0.0-py3.8.egg-info
+[0.618s] running install_scripts
+[0.631s] Installing turtle_controller script to /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/install/g02_prii3_turtlesim/lib/g02_prii3_turtlesim
+[0.632s] writing list of installed files to '/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/install.log'
+[0.648s] Invoked command in '/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/src/g02_prii3_turtlesim' returned '0': PYTHONPATH=/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/install/g02_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g02_prii3_turtlesim build --build-base /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/build install --record /home/laura/Escritorio/g02_prii3_workspace/g02_prii3_sprint1/g02_prii3_workspace-master/build/g02_prii3_turtlesim/install.log --install-scripts $base/lib/g02_prii3_turtlesim --single-version-externally-managed install_data
