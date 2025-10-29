@@ -11,8 +11,12 @@ cd g02_prii3_workspace
 colcon build --packages-select g02_prii3_turtlesim
 source install/setup.bash
 
+colcon build --packages-select g02_prii3_move_jetbot
+source install/setup.bash
 # Ejecutar
 ros2 launch g02_prii3_turtlesim turtle_draw.launch.py
+
+ros2 launch g02_prii3_move_jetbot move_jetbot2.launch.py
 
 # Servicios
 Parar el dibujo: ros2 service call /stop_drawing std_srvs/srv/Empty
